@@ -40,6 +40,7 @@ requests==2.27.1
 rsa==4.8
 six==1.16.0
 SQLAlchemy==1.4.35
+SQLAlchemy-serializer==1.4.1
 tomli==2.0.1
 typing_extensions==4.2.0
 urllib3==1.26.9
